@@ -5,7 +5,7 @@
 ### ProtoBuf EL 3.0 CRUD Library
 
 
-### For more see the [JavaDoc Documentation](https://protobufel.github.io/protobufel-crud/javadoc/ "JavaDoc and more").  
+### For more see the [JavaDoc Documentation](https://protobufel.github.io/protobufel-crud/docs/javadoc/ "JavaDoc and more").  
 
 Happy coding,
 
