@@ -56,8 +56,8 @@ dependencies {
     shared 'com.github.protobufel:protobufel-test-protos:0.7.1@jar'
 
     implementation 'org.glassfish:javax.el:3.0.1-b08'
-    implementation 'com.github.protobufel:protobufel:0.6' //FIXME: update to latest!
-    implementation 'com.github.protobufel:protobufel-el:0.6' //FIXME: update to latest!
+    implementation 'com.github.protobufel:protobufel:0.7.2'
+    implementation 'com.github.protobufel:protobufel-el:0.7.2'
     implementation group: 'org.slf4j', name: 'slf4j-api', version:'1.7.25'
     //implementation group: 'com.google.protobuf', name: 'protobuf-java', version: '2.6.1' //FIXME: remove as transitive?
 
