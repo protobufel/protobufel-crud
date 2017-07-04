@@ -59,7 +59,6 @@ dependencies {
     implementation 'com.github.protobufel:protobufel:0.7.2'
     implementation 'com.github.protobufel:protobufel-el:0.7.1'
     implementation group: 'org.slf4j', name: 'slf4j-api', version:'1.7.25'
-    //implementation group: 'com.google.protobuf', name: 'protobuf-java', version: '2.6.1' //FIXME: remove as transitive?
 
     testImplementation 'com.github.protobufel:protobufel-test-util:0.7.0'
 
