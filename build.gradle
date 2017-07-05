@@ -169,8 +169,6 @@ if (project.hasProperty('ossrhUsername')) {
         archives javadocJar, sourcesJar
     }
 
-    preTagCommit.dependsOn copyJavadocToDoc
-
     release {
         preCommitText = ''
         preTagCommitMessage = 'pre tag commit: '
